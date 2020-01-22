@@ -1,0 +1,10 @@
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.deps.json
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.runtimeconfig.json
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.runtimeconfig.dev.json
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.dll
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.pdb
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.csprojAssemblyReference.cache
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.AssemblyInfo.cs
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.dll
+C:\Users\renan.silva\Documents\Curso - net core API\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.pdb
